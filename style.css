@@ -289,14 +289,14 @@ p {
 
 .project_button_text {
   position: relative;
-  top: 14rem;
+  top: 5rem;
   opacity: 0;
   animation: fadeInUpEase 2s ease forwards;
 }
 
 .button-down-arrow {
   position: relative;
-  top: 15rem;
+  top: 6rem;
   appearance: button;
   background-color: #1652F0;
   border: 1px solid #1652F0;
